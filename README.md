@@ -19,6 +19,9 @@ also make sure to check out (twist space technology) its an AMAZING MOD for gtnh
 
 Heres just a little preview of common items
 ![image alt](https://github.com/NotKnolles/GTNH---Complete-modernity-overhaul/blob/main/DONT%20USE%20THIS/Picture3.png)
+
+![image alt](https://github.com/NotKnolles/GTNH---Complete-modernity-overhaul/blob/main/DONT%20USE%20THIS/Picture7.png)
+
 ![image alt](https://github.com/NotKnolles/GTNH---Complete-modernity-overhaul/blob/main/DONT%20USE%20THIS/Picture4.png)
 ![image alt](https://github.com/NotKnolles/GTNH---Complete-modernity-overhaul/blob/main/DONT%20USE%20THIS/Picture5.png)
 ![image alt](https://github.com/NotKnolles/GTNH---Complete-modernity-overhaul/blob/main/DONT%20USE%20THIS/Picture6.png)
