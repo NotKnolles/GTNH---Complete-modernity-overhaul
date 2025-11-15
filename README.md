@@ -15,6 +15,8 @@ Scroll down for pictures and video
 
 also make sure to check out (twist space technology) its an AMAZING MOD for gtnh ill provide the necessary links to get started [twist space technology](https://github.com/Nxer/Twist-Space-Technology-Mod) and this nice fella make a questline for it [Quest Book](https://github.com/AdityaVG13/Twist-Stuff)
 
+(NONE OF THESE ARE MINE THANK YOU TO THE ORIGINAL CREATORS)
+
 ![image alt](https://github.com/NotKnolles/GTNH---Complete-modernity-overhaul/blob/main/DONT%20USE%20THIS/Picture1.png)
 ![image alt](https://github.com/NotKnolles/GTNH---Complete-modernity-overhaul/blob/main/DONT%20USE%20THIS/Picture2.png)
 
