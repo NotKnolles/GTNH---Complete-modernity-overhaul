@@ -4,8 +4,13 @@ Have you ever wanted GTNH to actually look GOOD? ,Well now you can iv put togeth
 Just make sure you set it up like i did in the pictures (hover over a texutre pack and click the arrow up or down to make sure its in the correct order like the pictures) it MUST be in the same order as the pictures can't stress that enough
 
 
-also make sure to check out (twist space technology) its an AMAZING MOD for gtnh ill provide the necessary links to get started [twist space technology](https://github.com/Nxer/Twist-Space-Technology-Mod)
 
+
+
+
+
+
+also make sure to check out (twist space technology) its an AMAZING MOD for gtnh ill provide the necessary links to get started [twist space technology](https://github.com/Nxer/Twist-Space-Technology-Mod) and this nice fella make a questline for it [Quest Book](https://github.com/AdityaVG13/Twist-Stuff)
 
 
 
