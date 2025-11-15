@@ -16,7 +16,7 @@ also make sure to check out (twist space technology) its an AMAZING MOD for gtnh
 
 
 
-![Watch the video](https://streamable.com/4iyuvr)
+![Watch the video](https://cdn-cf-east.streamable.com/image/4iyuvr.jpg?Expires=1763486230841&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=IcfbJNMuA9XWioM7LXWpYy4QTzHxijzDdEnw0sDYTtyaQWsh2V9a~exxXzSBOSnTe60wNCGXKGz0-pObYXevAi-bJAKhgdZQWwrC1x-eLJIMZivP6CD55EmCY1Jho0RPu1psshcVCc7Y3sQ4m-0O0TJbjigXpYd8~GeSb4bIzg5R-69r8Q1EFLZUZpQ9NCwy46Nr8L3D57wj0TzphbeqwRKhp5-cLboiRsXibfu7CHaHZkK9zXOOqeB9z9TO-n1Ys9Zhw~HVib6HBL0bIHF-kN4PQ2QSnZt06WFxbtW70PEOSikJcQe8qT2w0jlsqYKWKJfYYLTJpXJdunxZn~59uA__)](https://youtu.be/T-D1KVIuvjA)
 
 
 
