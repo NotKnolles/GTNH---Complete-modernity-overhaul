@@ -1,7 +1,7 @@
 # GTNH---Complete-modernity-overhaul
 Have you ever wanted GTNH to actually look GOOD? ,Well now you can iv put together resource packs to completely overhaul and make the game finally look GOOD 
 
-Just make sure you set it up like i did in the pictures (hover over a texutre pack and click the arrow up or down to make sure its in the correct order like the pictures) it MUST be in the same order as the pictures can't stress that enough
+Just make sure to have the resource packs in the same load order as the pictures
 
 
 
