@@ -23,7 +23,7 @@ also make sure to check out (twist space technology) its an AMAZING MOD for gtnh
 ![image alt](https://github.com/NotKnolles/GTNH---Complete-modernity-overhaul/blob/main/DONT%20USE%20THIS/Picture6.png)
  ### **And AE2 looking sexy**
 ![image alt](https://github.com/NotKnolles/GTNH---Complete-modernity-overhaul/blob/main/DONT%20USE%20THIS/Picture7.png)
- 
+  ### **With shaders**
 ![image alt](https://github.com/NotKnolles/GTNH---Complete-modernity-overhaul/blob/main/DONT%20USE%20THIS/Picture3.png)
 
 
