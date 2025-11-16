@@ -6,6 +6,7 @@ all you have to do is put all the files into the resource packs folder  ↓↓�
 
 Just make sure to have the resource packs in the same load order as the pictures
 
+and just put the jar file in the mods folder and done 
 
 Scroll down for pictures and video
 
